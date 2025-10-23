@@ -19,10 +19,6 @@ This project allows adding books, issuing them to users, returning books, and tr
   - `Book` **IS-A** `Object`  
   - `Book` is issued **TO-A** `User`
 
-## 📸 Console Output
-Here’s a sample of the program running in Eclipse:
-
-![Console Output](screenshots/console.png)
 
 ## 🛠️ How to Run
 1. Clone this repository:  
